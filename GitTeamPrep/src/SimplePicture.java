@@ -2,6 +2,7 @@ import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 // hello everbody i edited the file 
+//hello everbody i edited the file 2
 public class SimplePicture extends GraphicsProgram {
 	private static final String PNG_FILE = "robot.png";
 	public static int SIZE = 700;
