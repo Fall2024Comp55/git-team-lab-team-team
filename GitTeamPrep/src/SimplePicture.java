@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 		GImage robot = new GImage(PNG_FILE, 200, 100);
 		add(robot);
 
-		GLabel label = new GLabel("How I feel when I clutch an A. Melvin changed it", 200, 400);
+		GLabel label = new GLabel("How I feel when I clutch but then A. Melvin changed it", 200, 400);
 
 		add(label);
 	}
